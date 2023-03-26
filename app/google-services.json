@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31870919511",
+    "project_id": "smart-news-app-45940",
+    "storage_bucket": "smart-news-app-45940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31870919511:android:45929dde0f617987a35412",
+        "android_client_info": {
+          "package_name": "com.bhartiya.smartnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31870919511-8hggm0auikgiak6ifvn1k19p0ru7gfbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4cLdcLTpsmZNpNwZh0zHyG-ZhazEeuc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31870919511-8hggm0auikgiak6ifvn1k19p0ru7gfbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
